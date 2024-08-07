@@ -48,6 +48,7 @@
   color: #021F59;
   text-decoration: none;
   font-size: 17px;
+  margin-right: 10px;
 }
 
 .navbar a:hover{
@@ -100,7 +101,7 @@
 
 .content a{
     text-decoration: none;
-    font-size: 12px;
+    font-size: 18px;
     font-weight: bold;
     border-radius: 3px;
     padding: 4px;
@@ -132,7 +133,7 @@
 
 .box1 a{
     text-decoration: none;
-    font-size: 10px;
+    font-size: 15px;
     font-weight: bold;
     border-radius: 3px;
     padding: 3px;
@@ -143,6 +144,10 @@
 .box1 a:hover{
     background-color: #26262b;
     color: #ffffff;
+}
+
+.box1 span{
+    font-size: 20px;
 }
 
 /*for the 3rd box*/
@@ -162,7 +167,7 @@
 
 .box2 a{
     text-decoration: none;
-    font-size: 10px;
+    font-size: 15px;
     font-weight: bold;
     border-radius: 3px;
     padding: 3px;
@@ -173,6 +178,10 @@
 .box2 a:hover{
     background-color: #b8b7c2;
     color: #ffffff;
+}
+
+.box2 span{
+    font-size: 20px;
 }
 
 /*homepage about section*/
@@ -213,7 +222,7 @@
 .about a{
     padding-left: 500px;
     text-decoration: none;
-    font-size: 12px;
+    font-size: 18px;
     font-weight: bold;
     border-radius: 3px;
     padding: 4px;
@@ -256,7 +265,7 @@
 }
 
 .social a{
-    margin-top: 12px;
+    margin-top: 13px;
     margin-left: 5px;
     padding: 5px;
     font-size: 15px;
@@ -565,12 +574,16 @@
 
 .button3{
     background-color: #9090a0;
+    color: #ffffff;
     height: 20px;
     display: flex;
     flex-direction: row;
     align-items: center;
     cursor: pointer;
     border: none;
+    width: 70px;
+    padding-left: 10px;
+    font-size: 13px;
 }
 
 /*rhs contaents*/
