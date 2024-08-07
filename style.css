@@ -344,7 +344,7 @@
 .footer2{
     display: flex;
     background-color: #eeeef0;
-    margin-top: 105px;
+    margin-top: 103px;
     margin-bottom: -8px;
     margin-left: -8px;
     margin-right: -8px;
@@ -466,7 +466,7 @@
     margin-left: -8px;
 }
 
-ul{
+.ul1{
     list-style-type: none;
     margin: 0;
     padding: 0;
